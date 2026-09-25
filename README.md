@@ -6,6 +6,12 @@ FitLive connects sleep and readiness, strength training, meals, pantry stock and
 
 [Open the private FitLive web app](https://fitlive.kiranloginin.chatgpt.site)
 
+## Product walkthrough
+
+[![FitLive daily planning walkthrough](docs/media/fitlive-cover.jpg)](https://kirann05.github.io/sai-kiran-portfolio/assets/fitlive-walkthrough.mp4)
+
+[Play the 2-minute 44-second walkthrough](https://kirann05.github.io/sai-kiran-portfolio/assets/fitlive-walkthrough.mp4) or [open the video file in this repository](docs/media/fitlive-walkthrough.mp4). The recording shows the product flow; it is not evidence that the release gates below are complete.
+
 ## What you can use now
 
 The hosted web edition supports:
