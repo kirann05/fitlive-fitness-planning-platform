@@ -1,5 +1,7 @@
 # FitLive
 
+Copyright (c) 2026 Sai Kiran. All rights reserved. Source is available for review; see [LICENSE](LICENSE) for terms and the treatment of earlier MIT releases.
+
 **What is the next sensible thing I should do?**
 
 FitLive connects sleep and readiness, strength training, meals, pantry stock and feedback into a calm daily planning experience. The interface uses light blue surfaces, restrained typography, and one primary action.
